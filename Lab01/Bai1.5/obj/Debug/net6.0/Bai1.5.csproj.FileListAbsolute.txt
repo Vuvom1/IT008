@@ -1,0 +1,14 @@
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\bin\Debug\net6.0\Bai1.5.exe
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\bin\Debug\net6.0\Bai1.5.deps.json
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\bin\Debug\net6.0\Bai1.5.runtimeconfig.json
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\bin\Debug\net6.0\Bai1.5.dll
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\bin\Debug\net6.0\Bai1.5.pdb
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\Bai1.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\Bai1.5.AssemblyInfoInputs.cache
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\Bai1.5.AssemblyInfo.cs
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\Bai1.5.csproj.CoreCompileInputs.cache
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\Bai1.5.dll
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\refint\Bai1.5.dll
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\Bai1.5.pdb
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\Bai1.5.genruntimeconfig.cache
+C:\Users\vominhvu\source\repos\Lab01\Bai1.5\obj\Debug\net6.0\ref\Bai1.5.dll
