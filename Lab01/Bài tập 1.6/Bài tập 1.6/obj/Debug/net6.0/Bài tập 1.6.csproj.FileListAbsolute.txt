@@ -1,0 +1,15 @@
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.AssemblyInfoInputs.cache
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.AssemblyInfo.cs
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\bin\Debug\net6.0\Bài tập 1.6.exe
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\bin\Debug\net6.0\Bài tập 1.6.deps.json
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\bin\Debug\net6.0\Bài tập 1.6.runtimeconfig.json
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\bin\Debug\net6.0\Bài tập 1.6.dll
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\bin\Debug\net6.0\Bài tập 1.6.pdb
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.dll
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\refint\Bài tập 1.6.dll
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.pdb
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\Bài tập 1.6.genruntimeconfig.cache
+D:\Lập trình trực quan\Lap1\Bài tập 1.6\Bài tập 1.6\obj\Debug\net6.0\ref\Bài tập 1.6.dll
