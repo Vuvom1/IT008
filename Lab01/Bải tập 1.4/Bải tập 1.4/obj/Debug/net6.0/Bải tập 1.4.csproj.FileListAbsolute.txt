@@ -1,0 +1,15 @@
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\bin\Debug\net6.0\Bải tập 1.4.exe
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\bin\Debug\net6.0\Bải tập 1.4.deps.json
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\bin\Debug\net6.0\Bải tập 1.4.runtimeconfig.json
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\bin\Debug\net6.0\Bải tập 1.4.dll
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\bin\Debug\net6.0\Bải tập 1.4.pdb
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.csproj.AssemblyReference.cache
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.AssemblyInfoInputs.cache
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.AssemblyInfo.cs
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.dll
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\refint\Bải tập 1.4.dll
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.pdb
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\Bải tập 1.4.genruntimeconfig.cache
+D:\Lập trình trực quan\Lap1\Bải tập 1.4\Bải tập 1.4\obj\Debug\net6.0\ref\Bải tập 1.4.dll
