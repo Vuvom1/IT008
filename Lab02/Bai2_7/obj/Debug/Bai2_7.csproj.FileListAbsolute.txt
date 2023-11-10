@@ -1,0 +1,10 @@
+C:\Users\vominhvu\source\repos\Bai2_7\bin\Debug\Bai2_7.exe.config
+C:\Users\vominhvu\source\repos\Bai2_7\bin\Debug\Bai2_7.exe
+C:\Users\vominhvu\source\repos\Bai2_7\bin\Debug\Bai2_7.pdb
+C:\Users\vominhvu\source\repos\Bai2_7\obj\Debug\Bai2_7.csproj.AssemblyReference.cache
+C:\Users\vominhvu\source\repos\Bai2_7\obj\Debug\Bai2_7.Form1.resources
+C:\Users\vominhvu\source\repos\Bai2_7\obj\Debug\Bai2_7.Properties.Resources.resources
+C:\Users\vominhvu\source\repos\Bai2_7\obj\Debug\Bai2_7.csproj.GenerateResource.cache
+C:\Users\vominhvu\source\repos\Bai2_7\obj\Debug\Bai2_7.csproj.CoreCompileInputs.cache
+C:\Users\vominhvu\source\repos\Bai2_7\obj\Debug\Bai2_7.exe
+C:\Users\vominhvu\source\repos\Bai2_7\obj\Debug\Bai2_7.pdb
