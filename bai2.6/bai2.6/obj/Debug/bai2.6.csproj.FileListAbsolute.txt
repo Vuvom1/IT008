@@ -1,0 +1,9 @@
+D:\bai2.6\bai2.6\bin\Debug\bai2.6.exe.config
+D:\bai2.6\bai2.6\bin\Debug\bai2.6.exe
+D:\bai2.6\bai2.6\bin\Debug\bai2.6.pdb
+D:\bai2.6\bai2.6\obj\Debug\bai2.6.csproj.AssemblyReference.cache
+D:\bai2.6\bai2.6\obj\Debug\bai2._6.Properties.Resources.resources
+D:\bai2.6\bai2.6\obj\Debug\bai2.6.csproj.GenerateResource.cache
+D:\bai2.6\bai2.6\obj\Debug\bai2.6.csproj.CoreCompileInputs.cache
+D:\bai2.6\bai2.6\obj\Debug\bai2.6.exe
+D:\bai2.6\bai2.6\obj\Debug\bai2.6.pdb
